@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refit.ProxyForCodeRunners", "Refit.ProxyForCodeRunners\Refit.ProxyForCodeRunners.csproj", "{D150DFA1-B4F1-4280-8A9A-938D66E7CFCE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{4E785EF1-D1A0-4085-83EA-288B402F5CC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D150DFA1-B4F1-4280-8A9A-938D66E7CFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D150DFA1-B4F1-4280-8A9A-938D66E7CFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D150DFA1-B4F1-4280-8A9A-938D66E7CFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E785EF1-D1A0-4085-83EA-288B402F5CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E785EF1-D1A0-4085-83EA-288B402F5CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E785EF1-D1A0-4085-83EA-288B402F5CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E785EF1-D1A0-4085-83EA-288B402F5CC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
